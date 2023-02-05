@@ -6,9 +6,7 @@ This is a simple Chrome extension that takes whatever Wikipedia/IMDB page you ar
 
 ## Instructions
 
-1. Go to a page, e.g.:
-	2. https://www.imdb.com/title/tt0068646/
-	3. https://en.wikipedia.org/wiki/The_Godfather
+1. Go to a page, e.g. https://www.imdb.com/title/tt0068646/ or https://en.wikipedia.org/wiki/The_Godfather
 2. Click the little button in your extension bar.
 3. It does a search in Letterboxd for that movie. You can then add it to your watchlist or whatever.
 
